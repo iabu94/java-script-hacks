@@ -1,3 +1,4 @@
+// use this in http://isaiminihits.net/a-z/n.xhtml site
 //run the local storage set item call for the first time only. DO NOT REPEAT
 localStorage.setItem('id', 1);
 
